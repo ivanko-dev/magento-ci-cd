@@ -1,0 +1,16 @@
+*
+!/.gitignore
+!/app
+!/app/*/
+!/app/code/**
+!/app/design/**
+!/app/etc/config.php
+!/app/i18n/**
+!/composer.json
+!/composer.lock
+!/php.ini
+!/README.md
+!/op-exclude.txt
+!/pub
+!/.user.ini
+!/nginx.conf.sample
